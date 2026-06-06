@@ -1,6 +1,6 @@
-# Android device tree for Samsung Galaxy Z Flip 4 (b4q)
+# Android device tree for Samsung Galaxy Z Fold 4 (q4q)
 
-Kernel source for prebuilt kernel [HERE](https://github.com/rainbowdashh/android_kernel_samsung_SM8475_b4q)
+Prebuilt Kernel extracted from Samsung F936BXXSCIZE1 for the moment.
 
 ```
 #

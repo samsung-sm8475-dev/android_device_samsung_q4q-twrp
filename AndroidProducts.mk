@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_b4q.mk
+    $(LOCAL_DIR)/twrp_q4q.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_b4q-user \
-    twrp_b4q-userdebug \
-    twrp_b4q-eng
+    twrp_q4q-user \
+    twrp_q4q-userdebug \
+    twrp_q4q-eng
